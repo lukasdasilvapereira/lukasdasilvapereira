@@ -1,4 +1,4 @@
-# Olá! Eu sou o Lukas da Silva Pereira 👋
+# Olá! Eu sou o Lucas da Silva Pereira 👋
 
 Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor focado em criar experiências web incríveis usando HTML, CSS e JavaScript. Este é meu espaço para compartilhar projetos e aprimorar minhas habilidades.
 
@@ -21,13 +21,9 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor focado em criar experiê
 
 ---
 
-## 🐍 Contribuições
-![Snake animation](https://github.com/lukasdasilvapereira/lukasdasilvapereira/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### Conecte-se comigo no GitHub:
 [GitHub - lukasdasilvapereira](https://github.com/lukasdasilvapereira)
+
 
 ---
 
