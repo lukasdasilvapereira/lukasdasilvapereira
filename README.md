@@ -1,13 +1,15 @@
-## # Olá! Eu sou o Lukas da Silva Pereira 👋
+# Olá! Eu sou o Lukas da Silva Pereira 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de desenvolvimento web e gosto de trabalhar com HTML, CSS e JavaScript. Atualmente, estou me dedicando a aprender cada vez mais e construir projetos que melhorem minhas habilidades e ajudem outras pessoas.
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor focado em criar experiências web incríveis usando HTML, CSS e JavaScript. Este é meu espaço para compartilhar projetos e aprimorar minhas habilidades.
 
 ---
 
-## 🚀 Minhas Habilidades
-- **HTML** - Estrutura de páginas web
-- **CSS** - Estilização e responsividade
-- **JavaScript** - Interatividade e funcionalidades dinâmicas
+## 🚀 Tecnologias que eu uso
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" height="40"/>
+</p>
 
 ---
 
@@ -24,7 +26,11 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de desenvolvimento web e go
 
 ---
 
-## 📫 Contato
-- Email: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
-- LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+### Conecte-se comigo no GitHub:
+[GitHub - lukasdasilvapereira](https://github.com/lukasdasilvapereira)
+
+---
+
+Obrigado por visitar meu perfil! Explore meus repositórios e fique à vontade para deixar um ⭐️ se algum projeto te interessar.
+
 
