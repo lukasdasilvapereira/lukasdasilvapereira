@@ -16,8 +16,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta do desenvolvimento web e ad
 ## 🌟 Minhas Estatísticas no GitHub
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukasdasilvapereira&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Lukas"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukasdasilvapereira&show_icons=true&theme=radical&v=1
-" alt="Linguagens mais usadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasdasilvapereira&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas"/>
 </p>
 
 ---
@@ -28,3 +27,4 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta do desenvolvimento web e ad
 ---
 
 Obrigado por visitar meu perfil! Explore meus repositórios e, se algum projeto te interessar, não esqueça de deixar um ⭐️!
+
