@@ -1,6 +1,6 @@
-# Olá! Eu sou o Lucas da Silva Pereira 👋
+# Olá! Eu sou o Lukas da Silva Pereira 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor focado em criar experiências web incríveis usando HTML, CSS e JavaScript. Este é meu espaço para compartilhar projetos e aprimorar minhas habilidades.
+Bem-vindo ao meu perfil do GitHub! Sou um entusiasta do desenvolvimento web e adoro criar soluções criativas usando HTML, CSS e JavaScript. Confira meus repositórios e projetos para explorar mais do meu trabalho!
 
 ---
 
@@ -15,18 +15,20 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor focado em criar experiê
 
 ## 🌟 Minhas Estatísticas no GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukasdasilvapereira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasdasilvapereira&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukasdasilvapereira&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Lukas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasdasilvapereira&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas"/>
 </p>
+
+---
+
+## 🐍 Contribuições
+![Snake animation](https://github.com/lukasdasilvapereira/lukasdasilvapereira/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### Conecte-se comigo no GitHub:
 [GitHub - lukasdasilvapereira](https://github.com/lukasdasilvapereira)
 
-
 ---
 
-Obrigado por visitar meu perfil! Explore meus repositórios e fique à vontade para deixar um ⭐️ se algum projeto te interessar.
-
-
+Obrigado por visitar meu perfil! Explore meus repositórios e, se algum projeto te interessar, não esqueça de deixar um ⭐️!
