@@ -1,4 +1,4 @@
-# Olá! Eu sou o Lukas da Silva Pereira 👋
+# Olá! Eu sou o Lucas da Silva Pereira 👋
 
 Bem-vindo ao meu perfil do GitHub! Sou um entusiasta do desenvolvimento web e adoro criar soluções criativas usando HTML, CSS, JavaScript e Python. Confira meus repositórios e projetos para explorar mais do meu trabalho!
 
