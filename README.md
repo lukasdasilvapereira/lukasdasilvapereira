@@ -1,9 +1,5 @@
 # Olá! Eu sou o Lucas da Silva Pereira 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Bem-vindo%20ao%20meu%20Portfólio&fontSize=40" />
-</p>
-
 ### 🚀 Sobre Mim
 Sou um entusiasta do desenvolvimento web apaixonado em ideias e soluções criativas. Atualmente, foco meu aprendizado no ecossistema **Java** e em tecnologias modernas de **Front-end**.
 
@@ -18,7 +14,7 @@ Sou um entusiasta do desenvolvimento web apaixonado em ideias e soluções criat
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Front-end** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Back-end** | ![Java](![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)) |
+| **Back-end** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |
 | **Ferramentas** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 ---
