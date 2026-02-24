@@ -3,7 +3,6 @@
 ### 🚀 Sobre Mim
 Sou um entusiasta do desenvolvimento web apaixonado por transformar café em código e ideias em soluções criativas. Atualmente, foco meu aprendizado no ecossistema **Java** e em tecnologias modernas de **Front-end**.
 
-* 🌍 Baseado em Brasil.
 * 💻 Explorando novas arquiteturas e design patterns.
 * ⚡ Curiosidade: Adoro resolver problemas lógicos e criar interfaces intuitivas.
 
